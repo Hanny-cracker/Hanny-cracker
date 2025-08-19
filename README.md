@@ -1,12 +1,14 @@
 # 👋 Hi, Hanniel
 
-## 📊 GitHub Stats
-![Stats](https://github-readme-stats.vercel.app/api?username=Hanny-cracker&show_icons=true&theme=radical)
+
 
 ## 🔥 Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanny-cracker&layout=compact&theme=radical)
 
 <!--
+## 📊 GitHub Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Hanny-cracker&show_icons=true&theme=radical)
+
 **Hanny-cracker/Hanny-cracker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
